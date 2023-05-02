@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 645b0932b0f5a0b43b9ccaf868f08236, type: 3}
+  m_Name: DialogueList
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Bermain VR untuk memulai simulasi luar angkasa ?
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: b0cad2f90f3168d4f973b51cf43d61c9, type: 2}
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: 4f9dbb1c0b4114d4fa70a318f9e3ae89, type: 2}

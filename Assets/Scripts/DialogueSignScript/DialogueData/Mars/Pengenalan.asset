@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 645b0932b0f5a0b43b9ccaf868f08236, type: 3}
+  m_Name: Pengenalan
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Mars adalah planet bebatuan dengan atmosfer yang tipis dan planet keempat tata
+    surya kita. '
+  - 'Rotasi Mars hampir sama dengan rotasi Bumi yaitu 24 Jam 40 Menit. lebih lambat
+    40 menit. '
+  responses: []

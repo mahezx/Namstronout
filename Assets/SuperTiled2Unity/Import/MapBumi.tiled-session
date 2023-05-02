@@ -3,9 +3,14 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "D:/projekkolah/meh/ground_mars/Mars.tsx",
+    "activeFile": "map mars/mars.tmx",
     "expandedProjectPaths": [
-        "."
+        ".",
+        "map mars/tileset mars",
+        "map mars",
+        "map bumi",
+        "map venus",
+        "map merkurius"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -18,14 +23,17 @@
         },
         "Bumi.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1.5
+            "scaleInEditor": 1
         },
         "Bumi1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 270,
-                "y": 139.5
+                "x": 165,
+                "y": 158.5
             }
         },
         "Bumi2.tmx": {
@@ -40,6 +48,121 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Users/mahes/AppData/Local/Microsoft/Windows/INetCache/IE/2G993AK5/batumars.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Microsoft/Windows/INetCache/IE/2G993AK5/batumars2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Microsoft/Windows/INetCache/IE/2G993AK5/mars[1].tmx": {
+            "scale": 1.838341346153846,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 208.339980385747,
+                "y": 144.42366786531548
+            }
+        },
+        "C:/Users/mahes/AppData/Local/Microsoft/Windows/INetCache/IE/2G993AK5/mars[2].tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 340,
+                "y": 252.5
+            }
+        },
+        "C:/Users/mahes/AppData/Local/Microsoft/Windows/INetCache/IE/2G993AK5/tanahmars.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Microsoft/Windows/INetCache/IE/2G993AK5/tanahmars2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Temp/Temp1_venus[1].zip/ground_mars/lava_rock.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Temp/Temp1_venus[1].zip/ground_mars/planet.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Temp/Temp1_venus[1].zip/ground_mars/slantyrocksbg-rgb.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Temp/Temp1_venus[1].zip/tanahvenus.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mahes/AppData/Local/Temp/Temp1_venus[1].zip/venus.tmx": {
+            "scale": 1.8340277777777778,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 183.74858008330176,
+                "y": 163.5744036349867
+            }
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/batumars.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/batumars.tsx.txt": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/batumars2.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/batumars2.tsx.txt": {
+            "scaleInDock": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/mars.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 402,
+                "y": 122.5
+            }
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/marsbro/batu_mars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/marsbro/batu_mars2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/marsbro/ground_mars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/marsbro/ground_mars2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/marsbro/mars.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 217.33333333333337,
+                "y": 181.66666666666669
+            }
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/tanahmars.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/tanahmars.tsx.txt": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/tanahmars2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/projekkolah/Namstronaut/ujicoba/tanahmars2.tsx.txt": {
+            "scaleInDock": 1
+        },
         "D:/projekkolah/meh/ground_mars/Mars.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 0.33
@@ -47,10 +170,168 @@
         "D:/projekkolah/meh/tanah.tsx": {
             "scaleInDock": 4,
             "scaleInEditor": 1
+        },
+        "map bumi/planetbumi(vr).tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 208,
+                "y": 144
+            }
+        },
+        "map bumi/tilesetbumi.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map mars/batumars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map mars/batumars2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map mars/mars.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 233.66666666666669,
+                "y": 16
+            }
+        },
+        "map mars/marsbro/batu_mars.tsx": {
+            "scaleInDock": 1
+        },
+        "map mars/tanahmars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map mars/tanahmars.tsx.txt": {
+            "scaleInDock": 1
+        },
+        "map mars/tanahmars2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map mars/tileset mars/batumars.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "map mars/tileset mars/groundmars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map mars/tileset mars/tebingmars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map merkurius/assetnya.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map merkurius/batuan.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map merkurius/batumars2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "map merkurius/merkurius.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 334,
+                "y": 34
+            }
+        },
+        "map merkurius/texture-merkuri.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map merkurius/tileset-merkurius.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/assetnya.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/batumars.tsx": {
+            "scaleInDock": 1
+        },
+        "map venus/batumars2.tsx": {
+            "scaleInDock": 1
+        },
+        "map venus/batuvenus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/batuvenus2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/dindingvenus.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "map venus/ground_mars/lava_rock.tsx": {
+            "scaleInDock": 1
+        },
+        "map venus/ground_mars/planet.tsx": {
+            "scaleInDock": 1
+        },
+        "map venus/ground_mars/slantyrocksbg-rgb.tsx": {
+            "scaleInDock": 1
+        },
+        "map venus/planet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/spacebg.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/tanahmars.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "map venus/tanahmars2.tsx": {
+            "scaleInDock": 1
+        },
+        "map venus/tanahvenus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/tanahvenus2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map venus/venus.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -42,
+                "y": 296
+            }
         }
     },
     "last.exportedFilePath": "D:/projekkolah/Namstronaut/Map (Tiled)",
-    "last.imagePath": "D:/projekkolah/meh/ground_mars",
+    "last.externalTilesetPath": "D:/projekkolah/Namstronaut/Namstronaut/Assets/SuperTiled2Unity/Import/map venus",
+    "last.imagePath": "D:/projekkolah/Namstronaut/Namstronaut/Assets/SuperTiled2Unity/Import/map mars/tileset mars/tileyg lain",
     "lastUsedTilesetExportFilter": "All Files (*)",
     "map.height": 18,
     "map.lastUsedFormat": "tmx",
@@ -59,17 +340,25 @@
     "map.tileWidth": 16,
     "map.width": 26,
     "openFiles": [
-        "D:/projekkolah/meh/ground_mars/Mars.tsx"
+        "Bumi1.tmx",
+        "map mars/mars.tmx",
+        "map venus/venus.tmx",
+        "map merkurius/merkurius.tmx"
     ],
     "project": "MapBumi.tiled-project",
     "recentFiles": [
-        "D:/projekkolah/meh/ground_mars/Mars.tsx",
-        "D:/projekkolah/meh/tanah.tsx",
-        "Bumi2.tsx",
-        "Bumi2.tmx",
-        "Bumi(tileset).tsx",
         "Bumi1.tmx",
-        "Bumi.tsx"
+        "map merkurius/merkurius.tmx",
+        "map venus/venus.tmx",
+        "map mars/mars.tmx",
+        "map merkurius/batumars2.tsx",
+        "map mars/tileset mars/batumars.tsx",
+        "map mars/tileset mars/tebingmars.tsx",
+        "map mars/tileset mars/groundmars.tsx",
+        "map bumi/tilesetbumi.tsx",
+        "map bumi/planetbumi(vr).tmx",
+        "C:/Users/mahes/AppData/Local/Temp/Temp1_venus[1].zip/venus.tmx",
+        "map merkurius/batuan.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {

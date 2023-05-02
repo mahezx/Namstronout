@@ -72,3 +72,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: SampleScene
+  playerPosition: {x: 0, y: 0}
+  playerStorage: {fileID: 0}
+  fadeInPanel: {fileID: 0}
+  fadeOutPanel: {fileID: 0}
+  fadeWait: 0.3

@@ -8,9 +8,11 @@ public class SceneTransition : MonoBehaviour
     public string sceneToLoad;
     public Vector2 playerPosition;
     public VectorValue playerStorage;
+    public Animator musicAnim;
     public GameObject fadeInPanel;
     public GameObject fadeOutPanel;
     public float fadeWait;
+ 
     
     private void Awake()
     {
@@ -34,6 +36,7 @@ public class SceneTransition : MonoBehaviour
     {
         if(fadeOutPanel != null)
         {
+            musicAnim.SetTrigger("fadeOut");
             Instantiate(fadeOutPanel, Vector3.zero, Quaternion.identity);
         }
         yield return new WaitForSeconds(fadeWait);
